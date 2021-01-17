@@ -1,0 +1,47 @@
+{
+  "name": "xstepbot",
+  "version": "1.5.2",
+  "description": "",
+  "main": "functions.js",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "express": "4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.0",
+    "foreach-timeout": "^3.0.1",
+    "fs": "0.0.1-security",
+    "github": "^14.0.0",
+    "http": "0.0.1-security",
+    "icecast-stack": "^0.3.0",
+    "mathjs": "^7.1.0",
+    "node-gyp": "^6.1.0",
+    "node-ping": "^0.1.0",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "^0.0.4",
+    "os": "^0.1.1",
+    "ping": "^0.2.3",
+    "pm2": "^4.4.0",
+    "progress": "^2.0.3",
+    "python": "^0.0.4",
+    "random-puppy": "^1.1.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "simple-youtube-api": "v5.2.1",
+    "snekfetch": "^4.0.4",
+    "strftime": "^0.10.0",
+    "util": "^0.12.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^2.1.3"
+  },
+  "engines": {
+    "node": "12.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

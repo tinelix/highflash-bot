@@ -1,0 +1,18 @@
+{
+   "MENYANET": "",
+   "ytapi_key": "YOUR_TOKEN",
+   "prefix": "h.",
+   "prefix_a": "h!",
+   "prefix_b": "xs!",
+   "prefix_c": "xs.",
+   "version": "1.7.0",
+   "vkversion": "1.5.4 (VK)",
+   "vkdate": "30 августа 2020 г",
+   "tgversion": "1.5.4 (Telegram)",
+   "tgdate": "30 августа 2020 г",
+   "date": "2020-09-05",
+   "developer_mode": "false",
+   "accuwkey": "YOUR_TOKEN",
+   "name": "Highflash",
+   "logs_channel": "YOUR_LOGS_CHANNEL_ID"
+}

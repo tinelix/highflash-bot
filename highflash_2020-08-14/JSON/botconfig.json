@@ -1,0 +1,12 @@
+{
+   "token": "<Discord bot token>",
+   "ytapi_key": "<YouTube API Key>",
+   "prefix": "xs.",
+   "prefix_a": "xs!",
+   "prefix_b": "хс!",
+   "prefix_c": "хс.",
+   "version": "1.6.3",
+   "date": "2020-08-15",
+   "developer_mode": "false"
+   "log_channel": "<Your ID channel>"
+}
